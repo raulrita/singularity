@@ -1,10 +1,13 @@
-[PROJECT TITLE]
+2030 Singularity
 Credits:
 
-Author1
-Author2
-Author3
-Author4
+João Cardoso
+Ana Mota
+André Silva
+Tiago Oliveira
+Raúl Rita
+David Santos
+
 This game was made during the Neuro Game Jam 2018's edition and release under the MIT License.
 
 For selection criteria check CRITERIA.md
