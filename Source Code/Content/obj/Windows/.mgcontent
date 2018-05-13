@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/neurojam/source/Content/smoke.png</File>
+    <File>C:/neurojam/source/Content/background.png</File>
+    <File>C:/neurojam/source/Content/burst.png</File>
+    <File>C:/neurojam/source/Content/gamefont.spritefont</File>
+    <File>C:/neurojam/source/Content/Tile_0.png</File>
+    <File>C:/neurojam/source/Content/hero/frame0.png</File>
+    <File>C:/neurojam/source/Content/hero/frame1.png</File>
+    <File>C:/neurojam/source/Content/hero/frame2.png</File>
+    <File>C:/neurojam/source/Content/hero/frame3.png</File>
+    <File>C:/neurojam/source/Content/shadow.png</File>
+    <File>C:/neurojam/source/Content/pixel.png</File>
+    <File>C:/neurojam/source/Content/enemy1/frame0.png</File>
+    <File>C:/neurojam/source/Content/enemy1/frame1.png</File>
+    <File>C:/neurojam/source/Content/enemy1/frame2.png</File>
+    <File>C:/neurojam/source/Content/enemy1/frame3.png</File>
+    <File>C:/neurojam/source/Content/rock/frame0.png</File>
+    <File>C:/neurojam/source/Content/rock/frame1.png</File>
+    <File>C:/neurojam/source/Content/rock/frame2.png</File>
+    <File>C:/neurojam/source/Content/rock/frame3.png</File>
+    <File>C:/neurojam/source/Content/menu/again.png</File>
+    <File>C:/neurojam/source/Content/menu/again1.png</File>
+    <File>C:/neurojam/source/Content/menu/play.png</File>
+    <File>C:/neurojam/source/Content/menu/play1.png</File>
+    <File>C:/neurojam/source/Content/menu/title.png</File>
+    <File>C:/neurojam/source/Content/enemy2/frame0.png</File>
+    <File>C:/neurojam/source/Content/enemy2/frame1.png</File>
+    <File>C:/neurojam/source/Content/enemy2/frame2.png</File>
+    <File>C:/neurojam/source/Content/enemy2/frame3.png</File>
+    <File>C:/neurojam/source/Content/enemy3/frame0.png</File>
+    <File>C:/neurojam/source/Content/enemy3/frame1.png</File>
+    <File>C:/neurojam/source/Content/enemy3/frame2.png</File>
+    <File>C:/neurojam/source/Content/enemy3/frame3.png</File>
+    <File>C:/neurojam/source/Content/menu/up.png</File>
+    <File>C:/neurojam/source/Content/menu/up1.png</File>
+  </SourceFiles>
+</SourceFileCollection>
